@@ -12,7 +12,7 @@ arch:
   - aarch64
   - amd64
   - i386
-image: "stenmannsar/ebusd:v24.1"
+image: "ghcr.io/stenmannsar/ha-addon-ebusd-amd64:latest"
 init: false
 startup: services
 services:
