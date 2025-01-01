@@ -1,7 +1,7 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
 ## version: 24.1.0
 
-- Update to verson 24.1.0 ebusd
+- Update to version 24.1.0 ebusd
 
 ## version: 23.2.6
 
